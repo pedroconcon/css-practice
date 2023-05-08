@@ -1,0 +1,162 @@
+
+:root{
+    --branco-primario:#FFFFFF;
+    --cinza-secundario:#C0C0C0;
+    --botao-azul:#167BF7;
+    --cor-de-fundo:#00030C;    
+    --fonte-principal:'Inter';
+    --botao-azul-efeito:#3C92FA;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-primario);
+    font-family: var(--fonte-principal);
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.container{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.principal{
+    background-image: url("img/Background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    align-items: center;
+    text-align: center;
+}
+
+.container__caixa{
+    margin: 0 6em
+}
+
+.container__titulo{
+    font-size: 1.75rem;
+    font-weight: 700;
+}
+
+.container__botao{
+    background-color: var(--botao-azul);
+    border-radius: 0.33rem;
+    padding: 1em;
+    color:var(--branco-primario);
+    display: block;
+    text-decoration: none;
+    margin-bottom: 1em;
+}
+
+.botao_secundario{
+    background-color: transparent;
+    border: 2px solid var(--branco-primario);
+}   
+
+.container__aviso{
+    font-size: 0.75rem;
+    color: var(--cinza-secundario);
+}
+
+.container__imagem{
+    margin: 1em 0 2em 0;
+}
+
+.secundario__imagem{
+    width: 70%;
+}
+
+.secundario{
+    align-items: center;
+    margin:0 10em 0 10em;
+}
+
+.descricao__titulo{
+    font-weight: 700;
+    font-size: 3rem;
+    color: var(--branco-primario);
+    margin-bottom: 0.2em;
+}
+
+.descricao__texto{
+    color: var(--cinza-secundario);
+}
+
+.terciario__imagem{
+    width: 70%;
+}
+
+.terciario{
+    align-items: center;
+    margin:0 7em 0 7em;
+}
+
+.secundario__botao{
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.container__descricao{
+    padding: 2em;
+}
+
+.dispositivos__lista{
+    display: flex;
+    justify-content: center;  
+    list-style-type: none;   
+    margin: 5em 0;   
+}
+
+.dispositivos{
+    text-align: center;
+}
+
+.dispositivos__titulo{
+    font-size: 3rem;
+    color: var(--branco-primario);
+}
+
+.lista__item{
+    font-size: 2rem;
+    color: var(--branco-primario);
+}
+
+.rodape__lista{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    list-style-type: none;
+    margin: 2.5rem 0 2.0rem 0;
+}
+
+.lista__link a{
+    color:var(--branco-primario);
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.lista__link a:hover{
+    color: var(--botao-azul);
+}
+
+.rodape__texto{
+    font-size: 14px;    
+    color: var(--cinza-secundario);
+    margin: 1em 0;
+}
+
+.rodape {
+    text-align: center;
+    margin: 2rem 2rem;
+}
+
+.container__botao:hover{
+    background-color: var(--botao-azul-efeito);
+    color: var(--cor-de-fundo);
+}
