@@ -25,7 +25,7 @@ Web Book Store
 Branch 01-portfolio-good-css-practices
 https://github.com/pedroconcon/css-practice/tree/01-portfolio-good-css-practices
 
-![image](https://github.com/pedroconcon/css-practice/assets/54711435/4384da9a-354f-4706-bc6c-cc07f4e8b8c8)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/54711435/238095457-4384da9a-354f-4706-bc6c-cc07f4e8b8c8.png" alt="computer image" style="width: 80%; height: 50%;">
 
 
 
