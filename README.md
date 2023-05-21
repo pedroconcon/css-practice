@@ -9,7 +9,7 @@ Branch 03-responsive-book-store-css
 https://github.com/pedroconcon/css-practice/tree/03-responsive-book-store-css
 
 
-Responsive Web Design
+Responsive Web & Mobile Design
 <br><br>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/54711435/238095892-1384129d-fb9f-45de-88ac-38432073dd27.png" alt="celphone image"  style="width: 20%; height: 20%;">
 
