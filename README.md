@@ -27,5 +27,9 @@ https://github.com/pedroconcon/css-practice/tree/01-portfolio-good-css-practices
 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/54711435/238095457-4384da9a-354f-4706-bc6c-cc07f4e8b8c8.png" alt="computer image" style="width: 80%; height: 50%;">
 
+##
 
+- Flex Box, Side menu and advanced CSS
+
+![image](https://github.com/pedroconcon/css-practice/assets/54711435/7757ae70-9e49-46f9-8d06-d9717b8642ce)
 
