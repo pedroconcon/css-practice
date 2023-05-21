@@ -29,7 +29,7 @@ https://github.com/pedroconcon/css-practice/tree/01-portfolio-good-css-practices
 
 ##
 
-- Flex Box, Side menu and advanced CSS
+- Flex Box, Side Menu and Advanced CSS
 
 ![image](https://github.com/pedroconcon/css-practice/assets/54711435/7757ae70-9e49-46f9-8d06-d9717b8642ce)
 
