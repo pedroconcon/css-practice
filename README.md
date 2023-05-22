@@ -39,6 +39,12 @@ https://github.com/pedroconcon/css-practice/tree/04-flexbox-layout
 <br><br>
 ![image](https://github.com/pedroconcon/css-practice/assets/54711435/7757ae70-9e49-46f9-8d06-d9717b8642ce)
 
+Branch 05-layout-grid
+<br><br>
+https://github.com/pedroconcon/css-practice/tree/05-layout-grid
+<br><br>
+![image](https://github.com/pedroconcon/css-practice/assets/54711435/4a421b87-3de3-4414-98b4-979d31bc14d3)
+
 Branch 06-SASS
 <br><br>
 https://github.com/pedroconcon/css-practice/tree/06-SASS
