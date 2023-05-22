@@ -1,31 +1,11 @@
-# css-practice
-HTML and CSS projects practices
+SASS
 
-<br />
+A tendência de um arquivo .css é sempre aumentar conforme a aplicação cresce. Com um número de páginas maior é natural um crescimento do CSS.
+Pensando nisso, que o pré processador SASS pode ajudar muito.
 
-- Book Store
+O que é o SASS?
+Syntatically Awesome Style Sheets é uma ferramente de software que cria arquivos CSS, é uma linguagem que adiciona recursos que não existem no CSS.
+Segundo a própria documentação oficial, o Sass é uma linguagem que compila para CSS. Ele permite que você use variáveis, regras aninhadas, mixins e funções.
 
-Branch 03-responsive-book-store-css
-https://github.com/pedroconcon/css-practice/tree/03-responsive-book-store-css
-
-
-Responsive Web Design
-<br><br>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/54711435/238095892-1384129d-fb9f-45de-88ac-38432073dd27.png" alt="celphone image"  style="width: 20%; height: 20%;">
-
-Web Book Store
-<br><br>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/54711435/238095868-54dd79d3-e8f0-4f50-a0bb-ca8ff3640635.png" alt="computer image" style="width: 80%; height: 50%;">
-
-
-##
-
-- Web Site Training 
-
-Branch 01-portfolio-good-css-practices
-https://github.com/pedroconcon/css-practice/tree/01-portfolio-good-css-practices
-
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/54711435/238095457-4384da9a-354f-4706-bc6c-cc07f4e8b8c8.png" alt="computer image" style="width: 80%; height: 50%;">
-
-
-
+Para utilizar o SASS basta instalar a extensão Live Sass Compiler
+Posteriormente, CTRL+SHIFT+P , depois selecionar Liver Sass: Watch Sass ou clicar em Watch Sass no canto inferior direito
